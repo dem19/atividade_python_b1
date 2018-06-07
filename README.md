@@ -2,3 +2,4 @@
 atividade avaliativa de python
 professor fabio rolim
 grupo:Demerson,Isaac,Sergio,Amos,Bel,luiz Fernando,Rulieu
+Nota geral: 9,5
